@@ -1,0 +1,19 @@
+Modif hasil app :
+    ✘ Logo ganti yang dari svgrepo, modif warnanya jadi kuning @cancelled(22-04-10 16:08) biru
+    ✘ Warna ganti kuning primarynya @cancelled(22-04-10 16:08) biru jadinya
+    ✔ Nama aplikasi ganti miber @done(22-04-10 16:08)
+    ✘ Semua kata ganti bahasa jawa @cancelled(22-04-10 16:08) lama
+    ✔ Kasih detail profile di setting dan opsi edit profil dan update password @done(22-04-12 12:56)
+    Buat ui flutter :
+        ✔ Image profile yang bisa diklik untuk mengganti gambar di setting @done(22-04-11 14:40)
+        ✔ Di bawah edit profile kasih form password dan button update password @done(22-04-11 14:40)
+        ✔ Di halaman wallet, di walletnya kasih tombol top up, nanti muncul bottom sheet isi input nominal top up dan tombol top up @done(22-04-12 10:43)
+        ✔ Buat 2 tab di bawah card di halaman wallet, top up / buy @done(22-04-12 10:43)
+        ✔ Ketika beli tiket saldo di kurangin @done(22-04-12 11:13)
+        ✔ ketika setelah transaksi saldo tidak update @done(22-04-12 11:16)
+        ✔ di history topup buat topupTile dari destinationTile @done(22-04-12 14:26)
+        ☐ Card di list transaksi dibuat berbeda.
+        ✘ Card money di ubah mungkin. @cancelled(22-04-12 14:27)
+        ☐ Nama app diganti healing
+        ☐ Cari logo cocok healing
+        ✔ Cached network @done(22-04-12 14:26)

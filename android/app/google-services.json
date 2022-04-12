@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "416873344656",
+    "project_id": "airplane-6998a",
+    "storage_bucket": "airplane-6998a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416873344656:android:a8fe5fe6484ad5c7e0f215",
+        "android_client_info": {
+          "package_name": "com.adib.miber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416873344656-mcgt3j3g46tcnl19okprf7u0p46v7910.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAiBzRmVraLlz8ZK8P7zeMsaUTfT1Du3kg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416873344656-mcgt3j3g46tcnl19okprf7u0p46v7910.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
