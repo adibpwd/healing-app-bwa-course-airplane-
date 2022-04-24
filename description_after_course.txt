@@ -1,0 +1,10 @@
+Beberapa yang saya tambah dari hasil kursus Mastering Flutter Cubit & Firebase :
+
+1. Dinamis foto profil di home
+2. Mengganti data ke destinasi lokal
+3. Ambil list transaksi by user_id ( sebelumnya semua user )
+4. User bisa topup saldo
+5. Saldo user dikurangin jika berhasil memesan
+6. Memunculkan history top up dan saldo berkurang di halaman walet
+7. User bisa update profile atau password di halaman setting
+8. Bisa update foto profile
